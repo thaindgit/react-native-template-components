@@ -1,0 +1,25 @@
+{
+  "name": "react-native-utils-toolkit",
+  "version": "1.6.0",
+  "summary": "Toolkit makes the UI more perfect on many screen sizes.",
+  "description": "react-native-utils-toolkit",
+  "homepage": "https://github.com/github_account/react-native-utils-toolkit",
+  "license": "MIT",
+  "authors": {
+    "Your Name": "yourname@email.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/github_account/react-native-utils-toolkit.git",
+    "tag": "1.6.0"
+  },
+  "source_files": "ios/**/*.{h,c,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}
